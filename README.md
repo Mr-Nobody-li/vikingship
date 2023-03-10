@@ -1,2 +1,2 @@
 # vikingship
-react+typescript UI组件库（未完）
+react+typescript UI组件库
